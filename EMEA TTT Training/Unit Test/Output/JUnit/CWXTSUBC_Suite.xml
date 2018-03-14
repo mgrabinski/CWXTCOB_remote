@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 18.2.1.v20170627-1433_24?>
+<!--Topaz for Total Test 18.2.1.v20170627-1433_24 2017-09-05 14:35:26-->
+<testsuites>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_02_1'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_02_1'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_02_2'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_02_2'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_02_3'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_02_3'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="1" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_025_1'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_025_1'" name="Check for COMM_TOTAL">
+      <failure>Check for COMM_TOTAL failed
+
+Actual Value:    		2500.02
+
+Expected Value:  2500.03</failure>
+    </testcase>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_025_2'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_025_2'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_025_3'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_025_3'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="1" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_035_1'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_035_1'" name="Check for COMM_TOTAL">
+      <failure>Check for COMM_TOTAL failed
+
+Actual Value:    		10500.03
+
+Expected Value:  10500.04</failure>
+    </testcase>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_035_2'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_035_2'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_035_3'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_035_3'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_04_1'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_04_1'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_04_2'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_04_2'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_04_3'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_04_3'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="1" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_05_1'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_05_1'" name="Check for COMM_TOTAL">
+      <failure>Check for COMM_TOTAL failed
+
+Actual Value:    		22500.04
+
+Expected Value:  25000.05</failure>
+    </testcase>
+  </testsuite>
+  <testsuite errors="0" failures="1" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_05_2'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_05_2'" name="Check for COMM_TOTAL">
+      <failure>Check for COMM_TOTAL failed
+
+Actual Value:    		24750.00
+
+Expected Value:  27500</failure>
+    </testcase>
+  </testsuite>
+  <testsuite errors="0" failures="1" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_05_3'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Mgmt' Testcase: 'CWXTSUBCCase0_05_3'" name="Check for COMM_TOTAL">
+      <failure>Check for COMM_TOTAL failed
+
+Actual Value:    		40500.00
+
+Expected Value:  45000</failure>
+    </testcase>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_02_1'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_02_1'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_02_2'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_02_2'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_02_3'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_02_3'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_04_1'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_04_1'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_04_2'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_04_2'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_04_3'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_04_3'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_08_1'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_08_1'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_08_2'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_08_2'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_08_3'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_08_3'" name="Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="1" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_15_1'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_15_1'" name="Check for COMM_TOTAL">
+      <failure>Check for COMM_TOTAL failed
+
+Actual Value:    		20000.20
+
+Expected Value:  15000.15</failure>
+    </testcase>
+  </testsuite>
+  <testsuite errors="0" failures="1" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_15_2'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_15_2'" name="Check for COMM_TOTAL">
+      <failure>Check for COMM_TOTAL failed
+
+Actual Value:    		50000.00
+
+Expected Value:  37500</failure>
+    </testcase>
+  </testsuite>
+  <testsuite errors="0" failures="1" name="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_15_3'" tests="1">
+    <testcase classname="Project: 'EMEA TTT Training' Scenario: 'CWXTSUBC_Sales' Testcase: 'CWXTSUBCCase0_15_3'" name="Check for COMM_TOTAL">
+      <failure>Check for COMM_TOTAL failed
+
+Actual Value:    		0
+
+Expected Value:  75000</failure>
+    </testcase>
+  </testsuite>
+</testsuites>

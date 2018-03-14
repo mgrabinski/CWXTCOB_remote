@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 18.2.1.v20170627-1433_24?>
+<!--Topaz for Total Test 18.2.1.v20170627-1433_24 2017-09-05 14:35:26-->
+<result:result xmlns:result="http://www.compuware.com/model/xml/result">
+  <result:testsuite errorCount="0" failureCount="8" testCount="29" testsuite="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Suites/CWXTSUBC_Suite.testsuite">
+    <result:testscenarios errorCount="0" failureCount="5" testCount="16" testscenario="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Mgmt.testscenario">
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0">
+        <result:results expectedAssert="=" expectedValue="0" expression="BigDecimalCreator.make('0').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_02_1">
+        <result:results expectedAssert="=" expectedValue="0.02" expression="BigDecimalCreator.make('0.02').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_02_2">
+        <result:results expectedAssert="=" expectedValue="1500" expression="BigDecimalCreator.make('1500').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_02_3">
+        <result:results expectedAssert="=" expectedValue="2000" expression="BigDecimalCreator.make('2000').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="1" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_025_1">
+        <result:results actualValue="2500.02" expectedAssert="=" expectedValue="2500.03" expression="BigDecimalCreator.make('2500.03').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" message="Check for COMM_TOTAL failed" name="Check for COMM_TOTAL" result="Failure"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_025_2">
+        <result:results expectedAssert="=" expectedValue="3750" expression="BigDecimalCreator.make('3750').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_025_3">
+        <result:results expectedAssert="=" expectedValue="5000" expression="BigDecimalCreator.make('5000').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="1" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_035_1">
+        <result:results actualValue="10500.03" expectedAssert="=" expectedValue="10500.04" expression="BigDecimalCreator.make('10500.04').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" message="Check for COMM_TOTAL failed" name="Check for COMM_TOTAL" result="Failure"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_035_2">
+        <result:results expectedAssert="=" expectedValue="12250" expression="BigDecimalCreator.make('12250').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_035_3">
+        <result:results expectedAssert="=" expectedValue="14000" expression="BigDecimalCreator.make('14000').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_04_1">
+        <result:results expectedAssert="=" expectedValue="16000.04" expression="BigDecimalCreator.make('16000.04').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_04_2">
+        <result:results expectedAssert="=" expectedValue="18000" expression="BigDecimalCreator.make('18000').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_04_3">
+        <result:results expectedAssert="=" expectedValue="20000" expression="BigDecimalCreator.make('20000').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="1" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_05_1">
+        <result:results actualValue="22500.04" expectedAssert="=" expectedValue="25000.05" expression="BigDecimalCreator.make('25000.05').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" message="Check for COMM_TOTAL failed" name="Check for COMM_TOTAL" result="Failure"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="1" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_05_2">
+        <result:results actualValue="24750.00" expectedAssert="=" expectedValue="27500" expression="BigDecimalCreator.make('27500').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" message="Check for COMM_TOTAL failed" name="Check for COMM_TOTAL" result="Failure"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="1" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_05_3">
+        <result:results actualValue="40500.00" expectedAssert="=" expectedValue="45000" expression="BigDecimalCreator.make('45000').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" message="Check for COMM_TOTAL failed" name="Check for COMM_TOTAL" result="Failure"/>
+      </result:testcases>
+    </result:testscenarios>
+    <result:testscenarios errorCount="0" failureCount="3" testCount="13" testscenario="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario">
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0">
+        <result:results expectedAssert="=" expectedValue="0" expression="BigDecimalCreator.make('0').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_02_1">
+        <result:results expectedAssert="=" expectedValue="0.02" expression="BigDecimalCreator.make('0.02').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_02_2">
+        <result:results expectedAssert="=" expectedValue="300" expression="BigDecimalCreator.make('300').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_02_3">
+        <result:results expectedAssert="=" expectedValue="400" expression="BigDecimalCreator.make('400').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_04_1">
+        <result:results expectedAssert="=" expectedValue="800.04" expression="BigDecimalCreator.make('800.04').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_04_2">
+        <result:results expectedAssert="=" expectedValue="1000" expression="BigDecimalCreator.make('1000').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_04_3">
+        <result:results expectedAssert="=" expectedValue="1600" expression="BigDecimalCreator.make('1600').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_08_1">
+        <result:results expectedAssert="=" expectedValue="4800.08" expression="BigDecimalCreator.make('4800.08').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_08_2">
+        <result:results expectedAssert="=" expectedValue="6000" expression="BigDecimalCreator.make('6000').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="0" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_08_3">
+        <result:results expectedAssert="=" expectedValue="6400" expression="BigDecimalCreator.make('6400').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" name="Check for COMM_TOTAL" result="Success"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="1" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_15_1">
+        <result:results actualValue="20000.20" expectedAssert="=" expectedValue="15000.15" expression="BigDecimalCreator.make('15000.15').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" message="Check for COMM_TOTAL failed" name="Check for COMM_TOTAL" result="Failure"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="1" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_15_2">
+        <result:results actualValue="50000.00" expectedAssert="=" expectedValue="37500" expression="BigDecimalCreator.make('37500').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" message="Check for COMM_TOTAL failed" name="Check for COMM_TOTAL" result="Failure"/>
+      </result:testcases>
+      <result:testcases errorCount="0" failureCount="1" testCount="1" testcase="platform:/resource/EMEA%20TTT%20Training/Unit%20Test/Output/Last%20Execution/CWXTSUBC_Suite.archive#Unit%20Test/Scenarios/CWXTSUBC_Sales.testscenario%23CWXTSUBCCase0_15_3">
+        <result:results actualValue="0" expectedAssert="=" expectedValue="75000" expression="BigDecimalCreator.make('75000').compareTo(output.arg2.COMM_TOTAL.COMM_TOTAL) eq 0" message="Check for COMM_TOTAL failed" name="Check for COMM_TOTAL" result="Failure"/>
+      </result:testcases>
+    </result:testscenarios>
+  </result:testsuite>
+</result:result>
